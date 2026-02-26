@@ -4,5 +4,7 @@ Pipeline Monitoring System – Acoustic Leak &amp; Corrosion Detection: Develope
 ## Overview
 
 <p style="font-size:18px;">
-Inspired by tactile sensing concepts used in assistive devices and biological systems, this project replaces manual tapping with a controlled electromechanical mechanism. The aim was to observe how vibration signals change with contact distance and surface material.
+Pipelines are critical to modern infrastructure, transporting essential resources such as water, oil, and gas. However, leaks, corrosion, buried faults, and gas emissions often remain undetected, leading to costly failures, safety risks, and environmental damage. Conventional inspection methods such as ultrasonic testing, radiography, and ground penetrating radar are expensive, intrusive, and not suitable for continuous monitoring.
+
+This project proposes a low cost, portable, real time acoustic monitoring system designed to detect leaks, corrosion, and hidden structural anomalies in pipelines using advanced signal processing techniques.
 </p>
